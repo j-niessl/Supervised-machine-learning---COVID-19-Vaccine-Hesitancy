@@ -2,6 +2,7 @@
 A mini machine learning project. Using classifier models to predict if a person would be hesitant to get the COVID-19 shot in the US. Exploring features contributing to vaccine hesitancy
 
 
+
 Dataset obtained from Kaggle: https://www.kaggle.com/datasets/cid007/predicting-covid19-vaccine-hesitancy?select=vh_data15.csv
 
 Features are:
